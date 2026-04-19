@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: pixel
 title: 开启 Codex Computer Use：4 步搞定，顺手避开 macOS 最大的坑
+description: 一篇讲清楚 Codex Computer Use 安装、权限开启和 macOS 避坑路径的图文教程。
 ---
 
 # 开启 Codex Computer Use：4 步搞定，顺手避开 macOS 最大的坑
