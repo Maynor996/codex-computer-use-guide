@@ -19,7 +19,7 @@
 这篇文章我就把整个流程一次讲清楚：
 **怎么安装、怎么授权、为什么你在“应用程序”里找不到 `Codex Computer Use`，以及怎么正确把它加进权限列表。**
 
-如果你还没有可用的 Codex 账号，也可以先把入口存一下：如需 Codex，可通过 Maynor AI 开通，完整链接是：https://maynorai.jichiyun.sbs/buy/13 ，当前是每天 `150 刀` 的额度。
+如果你还没有可用的 Codex 账号，也可以先把入口存一下：如需 Codex，可通过 Maynor AI 开通，完整链接是：https://momoai.czvip.cn/products/m13 ，当前是每天 `150 刀` 的额度。
 
 ---
 
@@ -315,5 +315,5 @@ open "/Applications/Codex.app/Contents/Resources/plugins/openai-bundled/plugins/
 
 这里顺手放下入口，免得你再到处找：
 
-- 如需 Codex：可通过 Maynor AI 开通，完整链接：https://maynorai.jichiyun.sbs/buy/13
+- 如需 Codex：可通过 Maynor AI 开通，完整链接：https://momoai.czvip.cn/products/m13
 - 额度说明：每天 `150 刀` 的额度
